@@ -1,0 +1,5 @@
+venv/
+.DS_store
+*__pycache__*
+
+/somewhere/like/this/__pycache__/
